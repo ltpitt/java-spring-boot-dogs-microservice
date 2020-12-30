@@ -1,3 +1,10 @@
+[![build](https://github.com/ltpitt/java-spring-boot-dogs-microservice/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice/actions)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-boot-dogs-microservice)](https://github.com/ltpitt/java-spring-boot-dogs-microservice/issues)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice)](https://github.com/ltpitt/java-spring-boot-dogs-microservice/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice?foo=bar)](https://github.com/ltpitt/java-spring-boot-dogs-microservice/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-boot-dogs-microservice/blob/master/LICENSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 # Java Spring Boot Dogs Microservice
 > Java Spring Boot microservice written for a Dog shop
 
